@@ -2,6 +2,12 @@ import tkinter as tk
 from tkinter import StringVar, ttk
 import random as r
 
+"""
+Sumber kode untuk pindah frame TkInter
+Berasal dari : https://www.geeksforgeeks.org/tkinter-application-to-switch-between-different-page-frames/
+
+Kode untuk tebak angka @Godiped
+"""
 LARGEFONT =("Sans", 35)
 v_tebakan = 0
 
